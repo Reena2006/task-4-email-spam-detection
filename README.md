@@ -71,3 +71,5 @@ Ensure spam.csv is in the same directory as the script.
 Model accuracy (~96.68%) and classification report will be printed in the terminal.
 
 ✅ Outcome
+
+![Image](https://github.com/user-attachments/assets/03fc50d5-8be9-44df-be18-bb185e074a7c)
